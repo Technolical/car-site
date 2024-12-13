@@ -27,7 +27,7 @@ This project is a **Car Management System** designed to allow users to add, edit
 
 ## Stack
 
-- **Frontend**: HTML, CSS (with custom styles), Blade templates
+- **Frontend**: HTML, CSS
 - **Backend**: Laravel 10
 - **Database**: MySQL
 - **Server**: Apache or PHP's built-in development server
